@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\ProjetoAula02.exe
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\ProjetoAula02.deps.json
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\ProjetoAula02.runtimeconfig.json
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\ProjetoAula02.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\ProjetoAula02.pdb
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.AssemblyInfo.cs
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\refint\ProjetoAula02.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.pdb
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.genruntimeconfig.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula02\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ref\ProjetoAula02.dll

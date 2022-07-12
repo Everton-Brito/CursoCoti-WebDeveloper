@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\bin\Debug\net6.0\ExercicioAula1.exe
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\bin\Debug\net6.0\ExercicioAula1.deps.json
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\bin\Debug\net6.0\ExercicioAula1.runtimeconfig.json
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\bin\Debug\net6.0\ExercicioAula1.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\bin\Debug\net6.0\ExercicioAula1.pdb
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.AssemblyInfo.cs
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\refint\ExercicioAula1.dll
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.pdb
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ExercicioAula1.genruntimeconfig.cache
+C:\Users\PC\Documents\Curso coti\Csharp\Aula01\ExercicioAula1\ExercicioAula1\obj\Debug\net6.0\ref\ExercicioAula1.dll
