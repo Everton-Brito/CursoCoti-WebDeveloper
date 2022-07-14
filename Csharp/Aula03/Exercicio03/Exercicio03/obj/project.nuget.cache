@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKbDaNusGm9xMhNKAxzqCcIj1j7Whuad1r3jfKIAl7n/2dE5y4apAsD2+LwThx+Jds6kiDbmeGOQpwzRRtzLTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\Curso coti\\Csharp\\Aula03\\Exercicio03\\Exercicio03\\Exercicio03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
